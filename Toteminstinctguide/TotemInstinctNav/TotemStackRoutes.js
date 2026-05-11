@@ -76,7 +76,7 @@ const TotemStackRoutes = () => {
 
   const ONESIGNAL_KEY = `e9528ad7-c20f-4ab4-918c-22c4d1c6b376`;
 
-  const TARGET_DATA = new Date(2026, 4, 1, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 13, 8, 8, 0);
 
   const FATCH_TO_OUR_BACK = `https://mystic-frame.site/`;
 
